@@ -1,2 +1,4 @@
-# head1
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# learn
+```cpp
+cout<<"hello,world\n";
+```
